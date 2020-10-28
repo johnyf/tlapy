@@ -1,0 +1,10 @@
+include README.md
+include LICENSE
+include doc.md
+include requirements.txt
+include tests/README.md
+include tests/*_test.py
+include tests/*.tla
+include examples/README.md
+include examples/*.py
+include examples/*.tla
